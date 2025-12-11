@@ -77,7 +77,7 @@ Four major dashboards created:
 Fully interactive with slicers for Branch, Gender, Course, Company, Year, Status, etc.
 
 1️⃣ Student Management Dashboard
-[https://github.com/student423/Engineering-Dashboards-for-fully-Automation-Integrated/blob/main/eng_dashboard-1.png]
+![](https://github.com/student423/Engineering-Dashboards-for-fully-Automation-Integrated/blob/main/eng_dashboard-1.png)
 2️⃣ Department • Resources & Lab Analytics
 
 3️⃣ Faculty • Performance & Experience Analytics
