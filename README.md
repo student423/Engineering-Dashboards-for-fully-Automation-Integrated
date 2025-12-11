@@ -86,8 +86,10 @@ Fully interactive with slicers for Branch, Gender, Course, Company, Year, Status
 ![](https://github.com/student423/Engineering-Dashboards-for-fully-Automation-Integrated/blob/main/eng_dashboard-3.png)
 
 4️⃣ Placement • Fees • Outcome Analytics
+![](https://github.com/student423/Engineering-Dashboards-for-fully-Automation-Integrated/blob/main/eng_dashboard-4.png)
 
 # 📊 Key Insights Delivered
+
 Student Analytics
 
 Branch-wise & Course-wise distribution
