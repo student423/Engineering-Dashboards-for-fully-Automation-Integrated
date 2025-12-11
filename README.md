@@ -123,7 +123,7 @@ Salary package range distribution
 
 Fees paid vs pending
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Power BI Desktop
 
@@ -156,5 +156,5 @@ Built a scalable system for future academic years
 
 # 🔗 Developer
 
-Bipin Kumar
+Bipin Kumar |
 Data Analyst 
